@@ -1,0 +1,195 @@
+.imagestyle{
+  height: 500px;
+  width: 500px;
+  
+}
+
+.imagebox{
+  margin-top: 50px;
+  
+}
+
+.sliderimg{
+  width: 100%;
+  height: 550px;
+  object-fit: cover;
+}
+
+.releasesbox{
+  justify-content:  space-around;
+   display: inline-block;
+   padding-left: 110px;
+   padding-right: 110px;
+   padding-bottom: 10px;
+   margin-top: 40px;
+   
+}
+
+.smallcard{
+  
+  height: 500px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  width: 300px;
+  margin: 12.2px;
+  font-family: arial;
+  justify-content: space-around; 
+  display: inline-block;
+  text-align: center;
+  text-overflow: ellipsis;
+  background-color: #e3e3e3;
+  border-radius: 5px;
+}
+
+.bookingcard{
+  
+  height: 300px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  width: 350px;
+  margin: 12.2px;
+  font-family: arial;
+  justify-content: space-around; 
+  display: inline-block;
+  text-align: center;
+  text-overflow: ellipsis;
+  background-color: #e3e3e3;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+
+
+.text{
+  white-space: nowrap; 
+  width: 100%; 
+  overflow: hidden;
+  text-overflow: ellipsis; 
+  margin-left: 5px;
+  margin-right: 5px;
+  text-align: left;
+  margin: 0;
+  margin-left: 5px;
+}
+
+.smallcardview{
+
+  border: 1px solid black;
+  padding: 2px;
+  height: 35px;
+  width: 100px;
+  margin: 20px;
+  border-radius: 5px;
+  background-color: black;
+  color: white;
+
+}
+.loginheading
+{
+  
+  
+  color: #292fd4;
+  position: absolute;
+  left: 650px;
+  top: 20px;
+  font-family : 'Belanosima', sans-serif ; 
+  font-size : 50px; 
+  text-align : center ;
+  text-decoration : underline;
+  
+}
+
+.formboxheading{
+
+  font-family: 'Kanit', sans-serif;
+  
+
+}
+
+.loginformbox{
+
+  background-color: whitesmoke;
+  opacity: 0.85;
+  height: 300px;
+  width: 500px;
+  padding: 12px 20px;
+  box-sizing: border-box;  
+  box-shadow: 0 20px 8px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+  margin-top: 150px;
+}
+
+.signupformbox{
+  background-color: whitesmoke;
+  opacity: 0.85;
+  height: 550px;
+  width: 500px;
+  padding: 12px 20px;
+  box-sizing: border-box;  
+  box-shadow: 0 20px 8px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+  margin-top: 125px;
+  
+}
+.loginform-position {
+  display:flex;
+  justify-content: center;
+}
+
+.forminput{
+  width: 410px;
+  border: none;
+  border-bottom: 1px solid black;
+  margin: 20px;
+  background-color: whitesmoke;
+  outline: none;
+}
+
+.formbtn{
+  width: 100px;
+  border: none;
+}
+
+.loginbtn{
+  background-color: #D6D5A8;
+  margin-top: 10px;
+  margin-left: 170px;
+  text-align: center;
+  align-items: center;
+  font-weight: bolder;
+}
+
+.forgotlink
+{
+  
+  margin-left: 150px;
+  margin-top: 30px;
+  text-decoration: none;
+  color: black;
+  font-size: small;
+}
+
+.signuplink
+{
+  margin-left: 180px;
+  text-align: center; 
+  text-decoration: none;
+  color: black;
+  font-size: small;
+}
+
+.alreadsignedup
+{
+  margin-left: 165px;
+  text-decoration: none;
+  color: black;
+  font-size: small;
+}
+
+.loginpagebackground{
+  /* background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc3omAnCOfPHflpAJBEDJfUPyDjLDqn1JagQkgGwoU3LEQU-lbDZ_om0OGoc_s0NKyrXM");
+  opacity: 0.89;
+  background-repeat: no-repeat; */
+
+}
+
+
+

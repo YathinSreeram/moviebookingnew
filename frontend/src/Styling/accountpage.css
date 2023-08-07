@@ -1,0 +1,97 @@
+.sidenavbox{
+    margin-top: 62px;
+    
+    width: 250px;
+    height: 100%;
+    background-color: #5f7b88;
+}
+
+.sidenavbox2{
+    margin-top: 62px;
+    
+    width: 250px;
+    height: 91.4vh;
+    background-color: #5f7b88;
+}
+
+.content{
+
+    height: 91.4vh;
+    width: 1285.9999px;
+    position: absolute;
+    left: 249.5px;
+    top: 61px;
+    background-color: whitesmoke;
+    
+}
+
+.contentheading{
+    text-align: center;
+    margin-top: 40px;
+    
+    text-decoration: underline;
+    font-family: 'Carter One', cursive;
+}
+
+
+.linkitem{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 18px;
+    position: fixed;
+    margin-left: -80px;
+    
+    font-family : 'Ysabeau SC', sans-serif
+}
+
+.linkbox{
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+
+}
+
+.label{
+    margin-left: 50px;
+    margin-top: 40px;
+    width: 125px;
+    font-size: 30px;
+    font-family: 'Wix Madefor Display', sans-serif;
+}
+
+.labelcontent{
+    margin-left: 50px;
+    margin-top: 53px;
+    font-size: 15px;
+    font-weight: bold;
+    
+}
+
+.chagepswform{
+    
+    height: 655px;
+    width: 1400px;
+    padding: 12px 20px;
+    box-sizing: border-box;  
+    margin-top: 62px;
+    
+    
+}
+
+.changeinput{
+    width: 500px;
+    margin: 30px;
+    height: 40px;
+    outline: none;
+    border: none;
+    border-bottom:2px solid black ;
+}
+
+.changesubmitbtn{
+    margin: 30px;
+    height: 40px;
+    margin-left: 525px;
+
+}

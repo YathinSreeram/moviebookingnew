@@ -1,0 +1,81 @@
+
+.theatre
+{
+    height: 600px;
+    width: 1150px;
+    border: 1px solid black;
+    position: relative;
+    left: -320px;
+    top: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.screen
+{
+    border: 1px solid green;
+    background-color: aquamarine;
+    width: 1000px;
+    height: 50px;
+    text-align: center;
+}
+
+.alphaorder
+{
+    width: 30px;
+    height: 500px;
+    border: 1px solid black;
+}
+.section
+{
+    /* border: 1px solid black; */
+    width: 1500px;
+    height: 500px;
+    padding: 0px;
+    display:flex;
+    flex-wrap:wrap;
+    
+}
+.seat
+{
+    border: 1px solid black;
+    height : 20px;
+    width: 30px;
+    margin-left: 23px;
+    text-align: center;
+    border-radius: 3px;
+    cursor: pointer;
+    user-select: none
+}
+
+.seatsinfo
+{
+    height: 50px;
+    width: 1150px;
+    border: 2px solid black;
+    position: absolute;
+    left: 175px;
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.seatbox{
+    height : 20px;
+    width: 30px;
+    margin-left: 23px;
+    text-align: center;
+    border-radius: 3px;
+    border: 1px solid black;
+    margin-top: 5px;
+    
+}
+
+.infodata
+{
+    margin-top:  20px;
+    position : relative; 
+    left : -10px
+}

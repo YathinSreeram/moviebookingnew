@@ -1,0 +1,84 @@
+
+.bookbox{
+    
+    height : 550px;
+    width : 1200px;
+    margin-top: 100px;
+    margin-left: 175px;
+    display: flex;
+    box-shadow: 0 15px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 15px;
+    background-color: #e3e3e3;
+
+}
+
+.imagestyle{
+    height: 460px;
+    width: 300px;
+    margin: 10px;
+    border: 5px solid black;
+    padding: 2px;
+}
+
+.infobox{
+    margin-top: 5px;
+    width: 880px;
+}
+
+.labelstyle{
+    font-size: large;
+    font-weight: bolder;
+    margin-right: 10px;
+}
+
+.desbox{
+  width: 860px; 
+  height: 250px;
+}
+
+.desbox p{
+    overflow: hidden;
+   text-overflow: ellipsis;
+   display: -webkit-box;
+   -webkit-line-clamp: 10;
+           line-clamp: 10; 
+   -webkit-box-orient: vertical;
+   text-align: justify;
+   padding: 5px;
+}
+
+.placeonhld{
+    background-color: black;
+    color: white;
+    width: 200px;
+    margin-bottom: 2px;
+    border-radius: 5px;
+}
+
+.checkavai{
+    background-color: black;
+    color: white;
+    width: 200px;
+    margin-top: 2px;
+    border-radius: 5px;
+}
+
+.btns{
+    
+    position: absolute;
+    left: 225px;
+}
+
+.bookingbox
+{
+    height: 400px;
+    width: 1000px;
+    border: none;
+    margin-bottom: 210px;
+}
+
+.tktnumberbox{
+    height: 32px;
+    width: 32px;
+    border-radius: 50%;
+}
